@@ -1,0 +1,24 @@
+{
+    "peacock.color": "56ff00",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#78ff33",
+        "activityBar.background": "#78ff33",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#6096ff",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#78ff33",
+        "statusBar.background": "#56ff00",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#45cc00",
+        "statusBarItem.remoteBackground": "#56ff00",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#56ff00",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#56ff0099",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+}
